@@ -11,10 +11,10 @@ https://github.com/franklinsales/user-information
 A primeira coisa a se fazer é baixar os arquivos desse repositório, para isso basta executar:  
 ```git clone git@github.com:franklinsales/docker-user-information.git ```
 
-Após fazer isso acesse o diretório *docker-user-information* que foi criado em seu computador. Dentro desse diretório execute o comando abaixo:  
+Após fazer isso, acesse o diretório *docker-user-information* que foi criado em seu computador. Dentro desse diretório execute o comando abaixo:  
 ```git clone git@github.com:franklinsales/user-information.git ```
 
-Um diretório será criado com o nome *user-information* **renomeie** este diretório para **src**.
+Um diretório será criado com o nome *user-information*, então agora **renomeie** este diretório para **src**.
 
 Por fim basta executar:  
 ``` sudo docker-compose up -d ```
